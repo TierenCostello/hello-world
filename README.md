@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Hello world repository
+This is the hello world repository! It is Tieren's first GitHub repository.
